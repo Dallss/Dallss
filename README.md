@@ -11,4 +11,4 @@ Since summer 2024, I’ve been working part-time as a Full-Stack Web Developer, 
 - Frameworks/Libraries <br/><br/>
 &nbsp; [![My Skills](https://skillicons.dev/icons?i=django,vue,react,nextjs)](https://skillicons.dev) <br/>
 - Tools/Platforms <br/><br/>
-&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,bootstrap,postgresql,sqlite,github,git,postman,typescript,vercel)](https://skillicons.dev) 
+&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,bootstrap,postgresql,sqlite,github,git,postman,typescript)](https://skillicons.dev) 
