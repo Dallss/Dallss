@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Dallss/Dallss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Computer Science student with a passion for building things—especially for the web.
 
-Here are some ideas to get you started:
+Since summer 2024, I’ve been working part-time as a Full-Stack Web Developer, where I’ve gained hands-on experience building real-world applications. I enjoy turning ideas into functional, user-friendly software and constantly learning new technologies in the process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech I work with most:
+
+- Languages <br/><br/>
+&nbsp;[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript)](https://skillicons.dev) <br/>
+- Frameworks/Libraries <br/><br/>
+&nbsp; [![My Skills](https://skillicons.dev/icons?i=django,vue,react,nextjs)](https://skillicons.dev) <br/>
+- Tools/Platforms <br/><br/>
+&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,bootstrap,postgresql,sqlite)](https://skillicons.dev) 
