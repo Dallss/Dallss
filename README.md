@@ -4,36 +4,41 @@ I'm a third-year Computer Science student with a passion for building things—e
 
 Since summer 2024, I’ve been working part-time as a Full-Stack Web Developer, where I’ve gained hands-on experience building real-world applications. I enjoy turning ideas into functional, user-friendly software and constantly learning new technologies in the process.
 
----
-
-<div align="center">
+<br/>
 
 ### 💻 Tech I Am Proficient With
 
-#### 🧠 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" alt="Languages" />
-</p>
+- Languages <br/><br/>
+&nbsp;<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" alt="Languages" /><br/>
 
-#### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=django,vue,react,nextjs" alt="Frameworks & Libraries" />
-</p>
+- Frameworks & Libraries<br/><br/>
+&nbsp;<img src="https://skillicons.dev/icons?i=django,vue,react,nextjs" alt="Frameworks & Libraries" /><br/>
 
-#### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,tailwind,bootstrap,postgresql,sqlite,github,git,postman,typescript" alt="Tools & Platforms" />
-</p>
+- Tools & Platforms<br/><br/>
+&nbsp;<img src="https://skillicons.dev/icons?i=nodejs,tailwind,bootstrap,postgresql,sqlite,github,git,postman,typescript" alt="Tools & Platforms" /><br/>
 
----
+<br/>
+
+### 📫 Connect with Me
+
+
+[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/dallsszz)
+[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg)](https://x.com/kuyadalls)
+<!-- [![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg)](https://www.instagram.com/dallsszz) -->
+
+Email: raalquicer@up.edu.ph
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dallss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="dallss's GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dallss&theme=vue-dark&hide_border=true" alt="dallss's GitHub Streak" />
-</p>
 
-</div>
+
+
+
+
+
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=dallss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="dallss's GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dallss&theme=vue-dark&hide_border=true" alt="dallss's GitHub Streak" />
+
