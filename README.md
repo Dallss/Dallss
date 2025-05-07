@@ -24,7 +24,7 @@ Since summer 2024, I’ve been working part-time as a Full-Stack Web Developer, 
 
 [![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/dallsszz)
 [![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg)](https://x.com/kuyadalls)
-<!-- [![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg)](https://www.instagram.com/dallsszz) -->
+[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/randall-alquicer-a28497302/)
 
 Email: raalquicer@up.edu.ph
 
