@@ -15,7 +15,7 @@ Since summer 2024, I’ve been working part-time as a Full-Stack Web Developer, 
 &nbsp;<img src="https://skillicons.dev/icons?i=django,vue,react,nextjs" alt="Frameworks & Libraries" /><br/>
 
 - Tools & Platforms<br/><br/>
-&nbsp;<img src="https://skillicons.dev/icons?i=nodejs,tailwind,bootstrap,postgresql,sqlite,github,git,postman,typescript,gitlab" alt="Tools & Platforms" /><br/>
+&nbsp;<img src="https://skillicons.dev/icons?i=nodejs,tailwind,bootstrap,postgresql,sqlite,github,git,postman,typescript,gitlab,docker" alt="Tools & Platforms" /><br/>
 
 <br/>
 
