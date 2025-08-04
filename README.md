@@ -7,7 +7,7 @@ Since summer 2024, I’ve been working part-time as a Full-Stack Web Developer. 
 <br/>
 
 ### Top Skills  
-<img src="https://skillicons.dev/icons?i=javascript,django,vue,react,postgresql" alt="Top Skills" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,django,vue,react,postgresql" alt="Top Skills" />
 
 <br/>
 
