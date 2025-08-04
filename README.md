@@ -51,17 +51,19 @@ Since summer 2024, I’ve been working part-time as a Full-Stack Web Developer. 
 
 </div>
 </br>
+
 <p>
   <a href="https://www.instagram.com/dallsszz">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg" alt="Instagram" style="margin-right: 12px;" height="32" />
-  </a>
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg" alt="Instagram" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/kuyadalls">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" alt="Twitter" style="margin-right: 12px;" height="32" />
-  </a>
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" alt="Twitter" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/randall-alquicer-a28497302/">
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" alt="LinkedIn" height="32" />
   </a>
 </p>
+
 
 <p><strong>Email</strong>: raalquicer@up.edu.ph</p>
 
@@ -69,7 +71,7 @@ Since summer 2024, I’ve been working part-time as a Full-Stack Web Developer. 
 
 <div>
 
-### GitHub Stats </br>
+### GitHub Stats </br></br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=dallss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="dallss's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dallss&theme=vue-dark&hide_border=true" alt="dallss's GitHub Streak" />
